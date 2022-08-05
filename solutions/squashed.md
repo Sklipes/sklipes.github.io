@@ -28,7 +28,7 @@ After solving some of the bullet pointed crossword clues (which are alphabetized
 | Clue      | Answer | Letter |
 | ----------- | ----------- | :----: |
 | Intricate forms of textile art | TAPE S TRIES | S |
-| Passing some in a race perhaps | OVERT A KING | A |
+| Passing someone in a race perhaps | OVERT A KING | A |
 | Agreement | COVE N ANT | N |
 | Tool or drink made with orange juice | SCREW D RIVER | D |
 | Equalizer | COUNTER W EIGHT | W |
