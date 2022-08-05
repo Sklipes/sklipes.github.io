@@ -4,3 +4,4 @@ Hi! I'm Sklipes, a wanderer on the internet trying to solve puzzles. I've also b
 ---
 
 * ★☆☆☆☆ **Squashed** [Puzzle](https://sklipes.github.io/puzzle/squashed)  [Checker](https://www.callingit.in/1/#Qswu6/aoC3HUFA/C-B9VYwkatRpFTPFILoOhE0msvwSo1Txhc-U3F1YXNoZWQ=)  [Solution](https://sklipes.github.io/solution/squashed)
+* ★★☆☆☆ **Fine Art** [Puzzle](https://sklipes.github.io/puzzle/fineart/)
