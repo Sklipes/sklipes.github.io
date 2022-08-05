@@ -36,3 +36,6 @@ After solving some of the bullet pointed crossword clues (which are alphabetized
 | Like dates or names sometimes | FORGE T ABLE | T |
 | Like Joe and Obama politically | DEMO C RATS | C |
 | A bog or a swamp | MARS H LAND | H |
+
+## Notes
+This is my first puzzle! In retrospect, this puzzle is very bad. I don't think the concept is terrible but this puzzle, mainly its clues, are very scuffed and not polished. I wrote this puzzle for my friend to solve; he solved it but pointed out the many mistakes. The puzzle on the website has been polished _slightly_ but I left some mistakes in. When writing this puzzle I knew I wanted it to be a word puzzle because that's what my friend likes/is good at and I also like them. I settled with this idea which was pretty simple and I liked it. I thought the easiest part was writing the clues but as you can see I was very wrong. I learnt from this to **check your work**, you will most likely have made a mistake somewhere.
