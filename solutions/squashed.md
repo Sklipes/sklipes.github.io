@@ -20,7 +20,19 @@ After solving some of the bullet pointed crossword clues (which are alphabetized
 | Where Settlers is set (4)   | MARS        |
 | Very obvious (5)      | OVERT       |
 | Pests or an exclamation of disappointment (4)   | RATS        |
-| Stream of water (5)      | RIVER       |
+| Mississippi or Congo (5)      | RIVER       |
 | To cheat, or to give up on, with "it" (5)   | SCREW        |
 | Can come with duct, or painter's (4)      | TAPE       |
 | Attempts (5)   | TRIES        |
+
+| Clue      | Answer | Letter |
+| ----------- | ----------- | :----: |
+| Intricate forms of textile art | TAPE S TRIES | S |
+| Passing some in a race perhaps | OVERT A KING | A |
+| Agreement | COVE N ANT | N |
+| Tool or drink made with orange juice | SCREW D RIVER | D |
+| Equalizer | COUNTER W EIGHT | W |
+| Look deeper into a mystery for example | INVEST I GATE | I |
+| Like dates or names sometimes | FORGE T ABLE | T |
+| Like Joe and Obama politically | DEMO C RATS | C |
+| A bog or a swamp | MARS H LAND | H |
