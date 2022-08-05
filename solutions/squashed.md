@@ -9,7 +9,7 @@ After solving some of the bullet pointed crossword clues (which are alphabetized
 | Fit (4)      | ABLE       |
 | Small insect (3)   | ANT        |
 | Like a tally mark, or a desk (7)      | COUNTER       |
-| Type of inlet (4)   | Text        |
+| Type of inlet (4)   | COVE        |
 | To show a product's use (4)      | DEMO       |
 | Crazy `_____`, a card game (6)   | EIGHT        |
 | Shape metal (5)      | FORGE       |
