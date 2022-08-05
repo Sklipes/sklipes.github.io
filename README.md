@@ -3,4 +3,4 @@ Hi! I'm Sklipes, a wanderer on the internet trying to solve puzzles. I've also b
 
 ---
 
-* ★☆☆☆☆ Squashed [Puzzle](https://sklipes.github.io/puzzlepdfs/squashed.pdf) [Solution](https://sklipes.github.io/solutions/squashed)
+* ★☆☆☆☆ **Squashed** [Puzzle](https://sklipes.github.io/puzzlepdfs/squashed.pdf) [Solution](https://sklipes.github.io/solution/squashed)
