@@ -15,3 +15,5 @@ Each of these "art pieces" are words encryptid with common codes clued by the bo
 ## Notes
 
 This puzzle started with the answer DONALD JUDD (obtained by an unfinished meta). I saw that he was an abstract artist and that reminded me of a way to encode semaphore. This is supposed to be an easy puzzle so I thought this was a great idea. Braille and Morse were the two easy ones to come up with and binary also was another pretty simple one to think of. I wanted all of them to seem sorta abstract in a sense though some are more obviusly codes than others. I'm not an artist but it was fun to draw the little images, the ear was suprisingly hard to draw for me for some reason. I really liked the final product but my one criticism is that the clue phrase isn't that good. If you search it in whole you don't get the answer, instead you have to search up `SPECIFIC OBJECTS` and from there you can get the answer.
+
+PS. My friend pointed out that the clue phrase is actually kinda wrong and it is more of his own style instead of a general art style.
